@@ -1,35 +1,40 @@
-id: opecha:P000396
+id: P000396
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC308
   title: 'ཨེ་ཝཾ་བཀའ་འབུམ་ཁ་སྐོང་། '
-  volume:
+  author: ''
+  volumes:
     012ed13fe3c44d6bba34edee1e25b7ca:
       image_group_id: I4PD3945
       title: Volume 1 of e waM bka' 'bum kha skong /
       volume_number: 1
       total_pages: 446
+      base_file: v001.txt
     3a830317aa0f4561baf02b5d4360e8af:
       image_group_id: I4PD3946
       title: Volume 2 of e waM bka' 'bum kha skong /
       volume_number: 2
       total_pages: 446
+      base_file: v002.txt
     15f8d6ec1f3e46ad88f8e2a2b209441d:
       image_group_id: I4PD3947
       title: Volume 3 of e waM bka' 'bum kha skong /
       volume_number: 3
       total_pages: 414
+      base_file: v003.txt
     9e08adcfeacf4d3fbc8b7351fc115520:
       image_group_id: I4PD3948
       title: Volume 4 of e waM bka' 'bum kha skong /
       volume_number: 4
       total_pages: 438
+      base_file: v004.txt
     1725c65545a746c8b5d9a6e529b1fac9:
       image_group_id: I4PD3949
       title: Volume 5 of e waM bka' 'bum kha skong /
       volume_number: 5
       total_pages: 450
-  author: ''
+      base_file: v005.txt
 ebook_metadata:
   title: 'ཨེ་ཝཾ་བཀའ་འབུམ་ཁ་སྐོང་། '
   author: ''
